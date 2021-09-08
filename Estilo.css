@@ -1,0 +1,87 @@
+article{
+    background: #0a0a0a9a;  
+background: -webkit-linear-gradient(to right, #0808087a, #fdc6307e);  
+background: linear-gradient(to right, #0e0d0c6c, #a7905260); 
+
+}
+
+h1{
+
+background: #fdc6309a;  
+background: -webkit-linear-gradient(to right, #f35404ab, #fdc6307e);  
+background: linear-gradient(to right, #f374356c, #fdc63060); 
+
+}
+
+div {
+    background: ;   
+    width: ;
+}
+img {
+    height: 200px; ;
+    width: 300px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px rgba(247, 170, 6, 0.26);
+} 
+   
+
+body{
+    
+    background: url(fondo/Fondo.png);
+    background-attachment: fixed;
+    background-repeat:no-repeat ;
+    background-position:50% 0 ;
+    
+     
+    }
+    #cabecera{font-size: 50px;
+    }
+        #mision {font-size:23px ;
+        
+    }
+   #vision {font-size: 17px;
+   
+    }
+    #Actividad {font-size: 30px;
+} 
+#Principal {font-size: 30px;
+}
+
+  #Autor{
+
+      font-size: 15px, rgb(83, 20, 231);
+      
+}
+nav ul {
+
+    background: #fd4f30e8;  
+    background: -webkit-linear-gradient(to right, #f35404d5, #fdc6307e);  
+    background: linear-gradient(to right, #db520ee0, #fdc63060); 
+    overflow: hidden;
+} 
+nav ul li a {
+    text-decoration:none ;
+}
+     nav ul li{overflow: hidden;
+                      
+    }
+            
+nav ul  {
+    list-style: none;
+}
+nav ul li  {
+    float: left;
+    
+} 
+nav ul li a {
+    padding: 20px 40px ;
+    display: block;
+    color: rgba(22, 5, 2, 0.808);        
+    }    
+    nav ul li:hover {
+        background: #0c0b0b54;
+    }
+   
+
+
+  
